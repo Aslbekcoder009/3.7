@@ -1,0 +1,519 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+.follow{
+    align-items: center;
+    width: 100vh;
+    height: 100vh;
+    justify-content: center;
+}
+
+.container {
+    height: 4643px;
+    width: 1440px;
+    /* border: .5px solid black; */
+    margin: 0px auto;;
+
+}
+.bola{
+    width: 1440px;
+    height: 90px;
+    border: 1px solid transparent;
+    border-bottom: 1px solid gray;
+    display: flex;
+
+
+
+}
+.rasm{
+    margin-top: 25px;
+    margin-left: 120px ;
+    width: 145px;
+    height: 30px;
+    cursor: pointer;
+}
+.p1{
+   color: black ;
+   margin-left: 905px;
+   margin-top: 33px; 
+   margin-bottom: 0px;
+
+}
+.p1:hover{
+    color: red;
+    cursor: pointer;
+}
+.p2{
+    margin-top: 33px;
+    margin-left: 20px ;
+}
+.p2:hover{
+    color: red;
+    cursor: pointer;
+}
+.p3{
+    margin-top: 33px;
+    margin-left: 20px;
+}
+.p3:hover{
+    color: red;
+    cursor: pointer;
+}
+.ol2{
+    margin-top: 59px;
+    width: 1200px;
+    height: 472.5px;
+    margin-left: 120px;
+
+    display: flex;
+}
+.xira{
+    color: gray;
+    font-size: 12px;
+    margin-left: 51px;
+    margin-top: 5px;
+}
+.katta1{
+    margin-left: 50px;
+    margin-top: 18px;
+    font-family: "oila";
+    font-size: 40px;
+}
+@font-face {
+    font-family: "oila";
+    src: url(./fon2.ttf);
+
+    
+}
+.dsa{
+    margin-top: 27px;
+    font-size: 15px;
+    margin-left: 50px;
+}
+.lok{
+    margin-left: 50px;
+    margin-top: 28px;
+}
+.ol3{
+    width: 1220px;
+    height: 963px;
+
+    margin: 0px auto;
+    margin-top: 35px;
+}
+.ol4cha{
+    width: 1218px;
+    height: 418px;
+  
+    display: flex;
+}
+.lo{
+    max-width: 406px;
+    height: 416px;
+    margin-left: 1px;
+    cursor: pointer;
+}
+@font-face {
+    font-family: "ola";
+    src: url(./LibreFranklin-BlackItalic.ttf);
+ 
+}
+.ll{
+    font-family: "ola";
+    font-size: 10px;
+    margin-left: 20px;
+    color: gray;
+}
+.lo2{
+    width: 387px;
+    height: 254px;
+}
+.yu1{
+    font-family: "oila";
+    margin-left: 20px;
+    margin-top: 18px;
+    margin-bottom: 20px;
+}
+.cl{
+    margin-top: 200px;
+    margin-left: 20px;
+    font-size: 12px;
+}
+.lo3{
+    margin-left: 10px;
+}
+.lo2{
+  margin-left: 15px;
+}
+
+.lo4{
+    margin-left: 10px;
+}
+.lo:hover{
+    /* border: 1px solid black; */
+}
+.katta1{
+    cursor: pointer;
+}
+.ol2{
+    cursor: pointer;
+}
+.ll2{
+    max-width: 406px;
+    height: 416px;
+    margin-left: 1px;
+    cursor: pointer;
+    margin-left: 10px;
+   
+
+}
+.ll2:hover{
+    /* border: 1px solid black; */
+}
+.lo2{
+    display: flex;
+    margin-left: 10px;
+}
+.clas{
+    font-family: "ola";
+    color: gray;
+    font-size: 12px;
+}
+
+.clas2{
+    font-family: "ola";
+    color: gray;
+    font-size: 12px;
+}
+
+.clas3{
+    font-family: "ola";
+    color: gray;
+    font-size: 12px;
+}
+.class{
+    font-family: "oila";
+    margin-top: 18px;
+    margin-bottom: 14px;
+}
+.lkj{
+    width: 1200px;
+    margin: 0px auto;
+    color: #999999;
+    cursor: pointer;
+    margin-bottom: 89px;
+}
+
+.talik{
+    width: 1200px;
+    height: 1014.06px;
+ 
+    
+    margin: 0px auto;;
+    margin-bottom: 89px;
+}
+.bir{
+    width: 305px;
+    height: 389px;
+  
+}
+.bir:hover{
+    /* border: 1px solid blue; */
+
+}
+.birinchi_qator{
+    display: flex;
+}
+.qat{
+    width: 295px;
+    height: 187px;
+    cursor: pointer;
+
+}
+.radio{
+    font-family: "ola";
+    color: #999999;
+    margin-top: 25px;
+    font-size: 12px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.lor{
+    color: #999999;
+    font-family: "ola";
+    margin-bottom: 29px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.radi{
+    font-family: "oila";
+    cursor: pointer;   
+    margin-left: 10px;
+    cursor: pointer;
+    margin-top: 18px;
+    margin-bottom: 15px;
+}
+.c{
+    margin-left: 10px;
+    cursor: pointer;
+}
+.ikkinchi_qator{
+    display: flex;
+    margin-top: 50px;
+}
+.btn{
+    width: 205px;
+    height: 54px;
+    /* border: 1px solid black; */
+        margin-top: 64px;
+        margin-left: 477px;
+        font-size: 12px; 
+        margin-bottom: 111px;
+        cursor: pointer;
+}
+.btn:hover{
+    color: white;
+    background-color: gold;
+}
+.torttalik{
+    height: 1126px;
+    width: 1200px;
+    margin: 0px auto;
+    margin-bottom: 130px;
+
+}
+.bolacha{
+        width: 610px;
+        height: 567.19px;
+        /* cursor: pointer; */
+
+}
+.bolacha:hover{
+    /* border: 1px solid blue;   */
+}
+.bollar{
+    display: flex;
+}
+.clo{
+    font-family: "oila";
+    margin-left: 10px;
+    margin-top: 25px;
+    color: #999999;
+    font-size: 12px;
+}
+.cli{
+    font-family: "oila";
+    margin-left: 10px;
+    margin-top: 13px;
+
+}
+.clu{
+    font-family: "ola";
+    margin-left: 10px;
+    font-size: 12px;
+}
+.footer{
+    width: 1440px;
+    height: 617px;
+    margin-top: 105px;
+    border: 1px solid black;
+    margin: 0px auto;
+    background-color:   #141414 ;
+}
+.birr{
+    width: 1200px;
+    height: 22px;
+ 
+    margin-top: 90.41px;
+    margin-left: 120px;
+    display: flex;
+    margin-bottom: 81px;
+}
+.fgh{
+    color: white;
+    margin-left: 15px;
+}
+.dfg{
+    width: 134.96px;
+    height: 17.01px;
+} 
+.g{
+    color:#4D4D4D;
+  width: 1200px;
+  margin: 0px auto;
+  margin-bottom: 60px;
+
+}
+.lkj{
+    color:   #666666;
+    font-family: "oila";
+    font-size: 12px;
+    margin-bottom: 20px;
+  
+}
+.yozuivla1{
+    width: 600px;
+    height: 110px;
+    
+    display: inline-block;
+  
+
+    margin-left: 120px;
+    display: flex;
+}
+.lkm{
+    color: white;
+    font-size: 12px ;
+    margin-bottom: 15px;     cursor: pointer;
+}
+.lkm:hover{
+color: red;
+}
+.lkn{
+    color: white;
+    font-size: 12px ;    cursor: pointer;
+}
+.lkn:hover{
+color: red;
+
+}
+.l{
+    margin-left: 92px;
+    cursor: pointer;
+}
+.l:hover{
+color: red;
+}
+.lkb{
+    color: white;
+    font-size: 12px ;
+    cursor: pointer;
+}
+.lkb:hover{
+    color: red;
+
+}
+.kol{
+    color: white;   
+    font-size: 12px 
+
+}
+.kol:hover{
+color: red;
+
+    
+}
+.kolo{
+    margin-left: 132px;
+    cursor: pointer;
+}
+.ko{
+    color: white;   
+    font-size: 12px 
+  
+
+}
+.ko:hover{
+color: red;
+
+}
+.cola{
+    color: white;   
+    font-size: 12px 
+}
+.cola:hover{
+color: red;
+
+}
+.pepsi{
+    margin-left: 116px;
+    cursor: pointer;
+}
+.sprite{
+    color: white;
+    font-size: 12px 
+}
+.sprite:hover{
+color: red;
+}
+.ghu{
+    width: 300px;
+    height: 110px;
+
+    display: inline-block;
+    margin-right: 120px;
+    margin-left: 120px;
+}
+.uchun{
+    display: flex;
+}
+.wer{
+    color: #666666;
+    font-size: 12px;
+    font-family: "oila";
+}
+.wer:hover{
+color: red;    
+border-color: transparent;  
+}
+.dal{
+    width: 221px;
+    height: 48px;
+    background-color: white;
+    color: #666666;
+    padding: 20px;
+}
+.da{
+    height: 48px;
+    width: 79px;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 10px;
+}
+.da:hover{
+    background-color: aqua;
+}
+.re{
+    display: flex;
+}
+.songgi{
+    display: flex;
+    gap: auto;
+    width: 900px;
+    height: 144px;
+
+    margin-left: 120px;
+    margin-top: 40px;
+
+}
+.yba{
+    list-style: none;
+  
+}
+.yb{
+    color: #666666;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+.y{
+    color: #FFFFFF;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.y:hover{
+color: red;    
+
+}
+.qut{
+    margin-left: 145px;
+    list-style: none;
+}
+.ert{
+    margin-left: 220px;
+    list-style: none;
+}
+
